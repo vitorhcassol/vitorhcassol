@@ -40,7 +40,7 @@
 
 <a href="https://www.linkedin.com/in/vitorcassol/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <br>
-<b>Email:</b> vhcassol@gmai.com
+<b>Email:</b> vhcassol@gmail.com
 
 <h2>GitHub Stats</h2>
 
